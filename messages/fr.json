@@ -1,0 +1,85 @@
+{
+  "nav": {
+    "properties": "Propriétés",
+    "rentals": "Locations",
+    "commercial": "Commercial",
+    "agents": "Agents",
+    "contact": "Contact"
+  },
+  "home": {
+    "hero_title": "Trouvez la maison parfaite pour votre vie",
+    "hero_subtitle": "Parcourez des milliers d'annonces sélectionnées — maisons, appartements, villas et plus encore — dans les quartiers les plus prisés.",
+    "hero_search_placeholder": "Entrez une ville, un quartier ou un code postal...",
+    "featured_title": "Sélectionnés pour vous",
+    "featured_subtitle": "Nos agents ont sélectionné les meilleures propriétés dans les emplacements les plus recherchés.",
+    "cta_title": "Votre bien idéal n'est qu'à une recherche",
+    "cta_button": "Voir toutes les propriétés"
+  },
+  "properties": {
+    "title": "Annonces immobilières",
+    "filters_title": "Filtres",
+    "filter_type": "Type de bien",
+    "filter_price": "Fourchette de prix",
+    "filter_bedrooms": "Chambres",
+    "filter_bathrooms": "Salles de bain",
+    "filter_city": "Localisation",
+    "filter_status": "Statut",
+    "filter_clear": "Effacer tout",
+    "no_results": "Aucune propriété trouvée",
+    "view_grid": "Vue grille",
+    "view_map": "Vue carte",
+    "results_count": "propriétés trouvées",
+    "results_showing": "{count} propriétés trouvées",
+    "filter_type_all": "Tous les types",
+    "filter_city_placeholder": "Rechercher par ville...",
+    "filter_apply": "Appliquer les filtres"
+  },
+  "property": {
+    "bedrooms": "Ch.",
+    "bathrooms": "SdB",
+    "sqm": "m²",
+    "reception_rooms": "Salles de réception",
+    "status_available": "À vendre",
+    "status_under_offer": "Sous offre",
+    "status_sold": "Vendu",
+    "status_rented": "À louer",
+    "type_sale": "À vendre",
+    "type_rental": "À louer",
+    "type_commercial": "Commercial",
+    "type_luxury": "Luxe",
+    "features": "Caractéristiques et équipements",
+    "description": "À propos de ce bien",
+    "contact_agent": "Contacter l'agent",
+    "enquire": "Envoyer une demande",
+    "filter_type_all": "Tous les types de biens"
+  },
+  "inquiry": {
+    "title": "Envoyer une demande",
+    "first_name": "Prénom",
+    "last_name": "Nom",
+    "email": "Adresse e-mail",
+    "phone": "Numéro de téléphone",
+    "message": "Je suis intéressé(e) par ce bien et souhaite organiser une visite...",
+    "viewing_date": "Date de visite souhaitée",
+    "submit": "Envoyer",
+    "success": "Votre demande a été envoyée avec succès.",
+    "error": "Une erreur s'est produite. Veuillez réessayer."
+  },
+  "agents": {
+    "title": "Nos agents experts",
+    "subtitle": "Expérimentés, de confiance et dédiés à trouver votre bien idéal.",
+    "listings": "Annonces",
+    "contact": "Contacter"
+  },
+  "contact": {
+    "title": "Nous contacter",
+    "subtitle": "Notre équipe est là pour vous aider à trouver votre bien idéal.",
+    "address": "Adresse",
+    "phone": "Téléphone",
+    "email": "E-mail"
+  },
+  "footer": {
+    "tagline": "Votre partenaire de confiance pour trouver la propriété idéale. Nous mettons en relation acheteurs, vendeurs et locataires avec des experts.",
+    "copyright": "Tous droits réservés."
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "nav": {
+    "properties": "Propietats",
+    "rentals": "Lloguers",
+    "commercial": "Comercial",
+    "agents": "Agents",
+    "contact": "Contacte"
+  },
+  "home": {
+    "hero_title": "Troba la llar perfecta per a la teva vida",
+    "hero_subtitle": "Explora milers d'anuncis seleccionats — cases, apartaments, vil·les i molt més — als barris més desitjats.",
+    "hero_search_placeholder": "Introdueix una ciutat, barri o codi postal...",
+    "featured_title": "Seleccionats per a tu",
+    "featured_subtitle": "Els nostres agents han triat les millors propietats en els indrets més exclusius.",
+    "cta_title": "La teva propietat ideal és a un pas",
+    "cta_button": "Veure totes les propietats"
+  },
+  "properties": {
+    "title": "Llistat de propietats",
+    "filters_title": "Filtres",
+    "filter_type": "Tipus de propietat",
+    "filter_price": "Rang de preu",
+    "filter_bedrooms": "Habitacions",
+    "filter_bathrooms": "Banys",
+    "filter_city": "Ubicació",
+    "filter_status": "Estat",
+    "filter_clear": "Esborrar tot",
+    "no_results": "No s'han trobat propietats",
+    "view_grid": "Vista quadrícula",
+    "view_map": "Vista mapa",
+    "results_count": "propietats trobades",
+    "results_showing": "{count} propietats trobades",
+    "filter_type_all": "Tots els tipus",
+    "filter_city_placeholder": "Cercar per ciutat...",
+    "filter_apply": "Aplicar filtres"
+  },
+  "property": {
+    "bedrooms": "Hab.",
+    "bathrooms": "Banys",
+    "sqm": "m²",
+    "reception_rooms": "Sales d'estar",
+    "status_available": "En venda",
+    "status_under_offer": "Amb oferta",
+    "status_sold": "Venut",
+    "status_rented": "En lloguer",
+    "type_sale": "En venda",
+    "type_rental": "En lloguer",
+    "type_commercial": "Comercial",
+    "type_luxury": "Luxe",
+    "features": "Característiques i serveis",
+    "description": "Sobre aquesta propietat",
+    "contact_agent": "Contactar agent",
+    "enquire": "Enviar consulta",
+    "filter_type_all": "Tots els tipus de propietat"
+  },
+  "inquiry": {
+    "title": "Enviar consulta",
+    "first_name": "Nom",
+    "last_name": "Cognoms",
+    "email": "Adreça electrònica",
+    "phone": "Número de telèfon",
+    "message": "Estic interessat/ada en aquesta propietat i voldria concertar una visita...",
+    "viewing_date": "Data de visita preferida",
+    "submit": "Enviar",
+    "success": "La teva consulta s'ha enviat correctament.",
+    "error": "Alguna cosa ha anat malament. Si us plau, torna-ho a intentar."
+  },
+  "agents": {
+    "title": "Els nostres agents experts",
+    "subtitle": "Experimentats, de confiança i dedicats a trobar la teva propietat ideal.",
+    "listings": "Anuncis",
+    "contact": "Contactar"
+  },
+  "contact": {
+    "title": "Posa't en contacte",
+    "subtitle": "El nostre equip està aquí per ajudar-te a trobar la teva propietat ideal.",
+    "address": "Adreça",
+    "phone": "Telèfon",
+    "email": "Correu electrònic"
+  },
+  "footer": {
+    "tagline": "El teu soci de confiança per trobar la propietat perfecta. Connectem compradors, venedors i llogataris amb orientació experta.",
+    "copyright": "Tots els drets reservats."
+  }
+}

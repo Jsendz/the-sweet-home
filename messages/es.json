@@ -1,0 +1,85 @@
+{
+  "nav": {
+    "properties": "Propiedades",
+    "rentals": "Alquileres",
+    "commercial": "Comercial",
+    "agents": "Agentes",
+    "contact": "Contacto"
+  },
+  "home": {
+    "hero_title": "Encuentra el hogar perfecto para tu vida",
+    "hero_subtitle": "Explora miles de anuncios seleccionados — casas, apartamentos, villas y más — en los barrios más deseados.",
+    "hero_search_placeholder": "Introduce ciudad, barrio o código postal...",
+    "featured_title": "Seleccionados para ti",
+    "featured_subtitle": "Nuestros agentes han seleccionado las mejores propiedades en las ubicaciones más exclusivas.",
+    "cta_title": "Tu propiedad ideal está a una búsqueda de distancia",
+    "cta_button": "Ver todas las propiedades"
+  },
+  "properties": {
+    "title": "Listado de propiedades",
+    "filters_title": "Filtros",
+    "filter_type": "Tipo de propiedad",
+    "filter_price": "Rango de precio",
+    "filter_bedrooms": "Habitaciones",
+    "filter_bathrooms": "Baños",
+    "filter_city": "Ubicación",
+    "filter_status": "Estado",
+    "filter_clear": "Borrar todo",
+    "no_results": "No se encontraron propiedades",
+    "view_grid": "Vista cuadrícula",
+    "view_map": "Vista mapa",
+    "results_count": "propiedades encontradas",
+    "results_showing": "{count} propiedades encontradas",
+    "filter_type_all": "Todos los tipos",
+    "filter_city_placeholder": "Buscar por ciudad...",
+    "filter_apply": "Aplicar filtros"
+  },
+  "property": {
+    "bedrooms": "Hab.",
+    "bathrooms": "Baños",
+    "sqm": "m²",
+    "reception_rooms": "Salones",
+    "status_available": "En venta",
+    "status_under_offer": "Con oferta",
+    "status_sold": "Vendido",
+    "status_rented": "En alquiler",
+    "type_sale": "En venta",
+    "type_rental": "En alquiler",
+    "type_commercial": "Comercial",
+    "type_luxury": "Lujo",
+    "features": "Características y comodidades",
+    "description": "Sobre esta propiedad",
+    "contact_agent": "Contactar agente",
+    "enquire": "Enviar consulta",
+    "filter_type_all": "Todos los tipos de propiedad"
+  },
+  "inquiry": {
+    "title": "Enviar consulta",
+    "first_name": "Nombre",
+    "last_name": "Apellido",
+    "email": "Correo electrónico",
+    "phone": "Número de teléfono",
+    "message": "Estoy interesado/a en esta propiedad y me gustaría concertar una visita...",
+    "viewing_date": "Fecha de visita preferida",
+    "submit": "Enviar",
+    "success": "Tu consulta ha sido enviada con éxito.",
+    "error": "Algo salió mal. Por favor, inténtalo de nuevo."
+  },
+  "agents": {
+    "title": "Nuestros agentes expertos",
+    "subtitle": "Experimentados, de confianza y dedicados a encontrar tu propiedad ideal.",
+    "listings": "Anuncios",
+    "contact": "Contactar"
+  },
+  "contact": {
+    "title": "Ponte en contacto",
+    "subtitle": "Nuestro equipo está aquí para ayudarte a encontrar tu propiedad ideal.",
+    "address": "Dirección",
+    "phone": "Teléfono",
+    "email": "Correo electrónico"
+  },
+  "footer": {
+    "tagline": "Tu socio de confianza para encontrar la propiedad perfecta. Conectamos compradores, vendedores y arrendatarios con orientación experta.",
+    "copyright": "Todos los derechos reservados."
+  }
+}

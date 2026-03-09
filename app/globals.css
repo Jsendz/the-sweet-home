@@ -1,26 +1,85 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+@theme {
+  /* ── Brand Colours ── */
+  --color-accent: #78afcf;
+  --color-accent-dark: #5a96b8;
+  --color-dark: #171717;
+  --color-surface: #f8f8f8;
+  --color-border: #ebebeb;
+  --color-muted: #6b7280;
+  --color-card: #ffffff;
+
+  /* ── Typography ── */
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+
+  /* ── Border Radius ── */
+  --radius-card: 0.75rem;
+  --radius-btn: 0.5rem;
+  --radius-badge: 0.25rem;
+  --radius-input: 0.5rem;
+
+  /* ── Shadows ── */
+  --shadow-card: 0 2px 16px 0 rgba(0, 0, 0, 0.08);
+  --shadow-card-hover: 0 8px 32px 0 rgba(0, 0, 0, 0.14);
+  --shadow-nav: 0 1px 0 0 #ebebeb;
+
+  /* ── Spacing ── */
+  --container-max: 1200px;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+/* ── Global Resets ── */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+html {
+  scroll-behavior: smooth;
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background: #ffffff;
+  color: #171717;
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+/* ── Container Utility ── */
+.container-site {
+  width: 100%;
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+
+@media (min-width: 640px) {
+  .container-site {
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+}
+
+@media (min-width: 1200px) {
+  .container-site {
+    padding-left: 2.75rem;
+    padding-right: 2.75rem;
+  }
+}
+
+/* ── Line-clamp utility ── */
+.line-clamp-2 {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
 }

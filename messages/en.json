@@ -1,0 +1,85 @@
+{
+  "nav": {
+    "properties": "Properties",
+    "rentals": "Rentals",
+    "commercial": "Commercial",
+    "agents": "Agents",
+    "contact": "Contact"
+  },
+  "home": {
+    "hero_title": "Find the Perfect Home for Your Life",
+    "hero_subtitle": "Browse thousands of curated listings — houses, apartments, villas, and more — in the most desirable neighbourhoods.",
+    "hero_search_placeholder": "Enter city, neighbourhood, or zip code...",
+    "featured_title": "Handpicked for you",
+    "featured_subtitle": "Our agents have selected the finest properties across the most sought-after locations.",
+    "cta_title": "Your dream property is just a search away",
+    "cta_button": "Browse All Properties"
+  },
+  "properties": {
+    "title": "Property Listings",
+    "filters_title": "Filters",
+    "filter_type": "Property Type",
+    "filter_price": "Price Range",
+    "filter_bedrooms": "Bedrooms",
+    "filter_bathrooms": "Bathrooms",
+    "filter_city": "Location",
+    "filter_status": "Status",
+    "filter_clear": "Clear all",
+    "no_results": "No properties found",
+    "view_grid": "Grid view",
+    "view_map": "Map view",
+    "results_count": "properties found",
+    "results_showing": "{count} properties found",
+    "filter_type_all": "All Types",
+    "filter_city_placeholder": "Search by city...",
+    "filter_apply": "Apply Filters"
+  },
+  "property": {
+    "bedrooms": "Beds",
+    "bathrooms": "Baths",
+    "sqm": "m²",
+    "reception_rooms": "Reception Rooms",
+    "status_available": "For Sale",
+    "status_under_offer": "Under Offer",
+    "status_sold": "Sold",
+    "status_rented": "For Rent",
+    "type_sale": "For Sale",
+    "type_rental": "For Rent",
+    "type_commercial": "Commercial",
+    "type_luxury": "Luxury",
+    "features": "Features & Amenities",
+    "description": "About this property",
+    "contact_agent": "Contact Agent",
+    "enquire": "Send an Enquiry",
+    "filter_type_all": "All Property Types"
+  },
+  "inquiry": {
+    "title": "Send an Enquiry",
+    "first_name": "First name",
+    "last_name": "Last name",
+    "email": "Email address",
+    "phone": "Phone number",
+    "message": "I'm interested in this property and would like to arrange a viewing...",
+    "viewing_date": "Preferred viewing date",
+    "submit": "Send Enquiry",
+    "success": "Your enquiry has been sent successfully.",
+    "error": "Something went wrong. Please try again."
+  },
+  "agents": {
+    "title": "Our Expert Agents",
+    "subtitle": "Experienced, trusted, and dedicated to finding you the perfect property.",
+    "listings": "Listings",
+    "contact": "Contact"
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "Our team is here to help you find your perfect property.",
+    "address": "Address",
+    "phone": "Phone",
+    "email": "Email"
+  },
+  "footer": {
+    "tagline": "Your trusted partner in finding the perfect property. We connect buyers, sellers, and renters with expert guidance.",
+    "copyright": "All rights reserved."
+  }
+}
